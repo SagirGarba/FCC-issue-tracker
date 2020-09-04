@@ -18,7 +18,7 @@
 		"helmet": "^3.1.0",
 		"mocha": "^3.2.0",
 		"moment": "^2.24.0",
-		"mongodb": "^2.2.16",
+		"mongodb": "^3.6.1",
 		"mongoose": "^5.4.19",
 		"paginationjs": "^2.1.4",
 		"zombie": "^5.0.5"
